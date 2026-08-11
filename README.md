@@ -65,10 +65,10 @@ theremin-ds/
 
 ## Tech Stack
 **Hardware:** ESP32, HC-SR04, Photoresistor, PAM8403 amp \
-**Embedded:** Arduino C++ (ESP32 core v3.x)
-**Visualization:** Processing 4
-**Analysis:** Python, pandas, numpy, scipy
-**ML:** scikit-learn, PyTorch
+**Embedded:** Arduino C++ (ESP32 core v3.x) \
+**Visualization:** Processing 4 \
+**Analysis:** Python, pandas, numpy, scipy \
+**ML:** scikit-learn, PyTorch \
 **Dashboard:** Plotly Dash
 
 ## Project Structure
