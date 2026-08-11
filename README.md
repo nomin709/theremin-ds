@@ -64,7 +64,7 @@ theremin-ds/
 | 1D CNN         | 94%      | 31ms    |
 
 ## Tech Stack
-**Hardware:** ESP32, HC-SR04, Photoresistor, PAM8403 amp
+**Hardware:** ESP32, HC-SR04, Photoresistor, PAM8403 amp \
 **Embedded:** Arduino C++ (ESP32 core v3.x)
 **Visualization:** Processing 4
 **Analysis:** Python, pandas, numpy, scipy
